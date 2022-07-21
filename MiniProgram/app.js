@@ -1,6 +1,6 @@
 import { genTestUserSig } from './debug/GenerateTestUserSig'
 import Aegis from './lib/aegis'
-
+/*测试*/
 const Signature = genTestUserSig('')
 App({
   onLaunch: function() {
